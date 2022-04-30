@@ -11456,3 +11456,39 @@ header.masthead h1, header.masthead .h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+.profileBackground{
+  background-color:black;
+  height: 600px;
+}
+.profileBackgroundIMG{
+  float: right;
+  background-image: url(images/Aaron-Sprague.png);
+  background-size: 800px;
+  width: 800px;
+  height: 600px;
+  border: 2px solid;
+  color: black;
+  background-color:black;
+}
+.profileBackgroundText{
+  background-color:black;
+  height: 600px;
+}
+.profileBackgroundText h1{
+  text-align: center;
+  padding-top: 15%;
+  color: #adb5bd;
+  font-family: "Merriweather Sans";
+  font-size: 24pt;
+}
+.profileBackgroundText p{
+  text-align: center;
+  padding-top: 1%;
+  color: #adb5bd;
+  font-family: "Merriweather Sans";
+  font-size: 14pt;
+}
+.profileBackgroundText hr{
+  color: #adb5bd;
+  size: 10px;
+}
